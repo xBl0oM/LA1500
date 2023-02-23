@@ -49,7 +49,10 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![image](https://user-images.githubusercontent.com/111044215/220884451-ef174a16-bc8f-478c-9ecb-6e63aaeb1b4e.png)
+![image](https://user-images.githubusercontent.com/111044215/220884507-5a6fd6b7-0d04-4fcd-bae3-4229723a6579.png)
+
+
 
 ## 2 Planen
 
