@@ -15,9 +15,10 @@ Sivickas, Karrer, Özden, Frey
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt beinhaltet einen Game-Triatlon.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Unser Projekt wird in Unreal engine programmiert und unser Ziel ist es, dass der Spieler in eine hohe Diversität von verschiedenen Genres befördert wird und der Gewinner sein muss. Wir möchten, dass wir dem Spieler ein spassiges Spiel programmieren und dass wir vieles dabei lernen. Das Spiel hat eine hohe Diversität und deshalb ist die Lernmenge ziemlich viel. Wir hoffen zu lernen, wie man Fahrzeuge programmiert oder wie man Menüs und die Levels verbindet.
+
 
 ### 1.2 User Stories
 
