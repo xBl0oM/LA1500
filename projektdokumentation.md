@@ -17,7 +17,7 @@ Sivickas, Karrer, Özden, Frey
 
 Unser Projekt beinhaltet einen Game-Triatlon.
 
-Unser Projekt wird in Unreal engine programmiert und unser Ziel ist es, dass der Spieler in eine hohe Diversität von verschiedenen Genres befördert wird und der Gewinner sein muss. Wir möchten, dass wir dem Spieler ein spassiges Spiel programmieren und dass wir vieles dabei lernen. Das Spiel hat eine hohe Diversität und deshalb ist die Lernmenge ziemlich viel. Wir hoffen zu lernen, wie man Fahrzeuge programmiert oder wie man Menüs und die Levels verbindet.
+Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass der Spieler in eine hohe Diversität von verschiedenen Genres befördert wird und der Gewinner sein muss. Wir möchten, dass wir dem Spieler ein spassiges Spiel programmieren und dass wir vieles dabei lernen. Das Spiel hat eine hohe Diversität und deshalb ist die Lernmenge ziemlich viel. Wir hoffen zu lernen, wie man Fahrzeuge programmiert oder wie man Menüs und die Levels verbindet.
 
 
 ### 1.2 User Stories
