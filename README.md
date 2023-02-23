@@ -24,8 +24,19 @@ Unser Projekt wird in Unreal engine programmiert und unser Ziel ist es, dass der
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Kann|Qualität |Als ein User möchte ich zwischen verschiedenen Charakteren auswählen können.
+| 1.1 |Kann|Qualität| Diese Charaktere sollen verschiedene Stats haben.                               |
+|2|Soll|Funktional|Als User möchte ich ein Renn spiel haben.|
+|2.1|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können|
+|2.2|Kann|Qualität|Diese Fahrzeuge sollen unterschiedliche Stats haben.|
+|3|Soll|Funktional|Als User möchte ich ein Platformer haben.|
+|4|Soll|Funktional |Als User möchte ich ein Final spiel haben.|
+|5|Soll|Funktional|Als User möchte ich ein Fighter-Spiel haben. |
+|6 |Soll|Funktional|Als User möchte ich einen Victory Screen haben.|
+|7|Kann|Qualität|Als User möchte ich Tänze machen können.|
+|8|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele.|
+|9|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können.|
+|10|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
