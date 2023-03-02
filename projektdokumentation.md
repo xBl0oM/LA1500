@@ -68,10 +68,10 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | Mirhan          | Menü wird erstellt             |   45 Minuten            |
-| 1.B  |       |   Mirhan     |   Charaktere werden eingefügt          |   45 Minuten            |
-| 1.2A     |       |Mirhan     |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
-||||||
-||||||
+| 1.B  |       |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
+| 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
+|2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
+|2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
