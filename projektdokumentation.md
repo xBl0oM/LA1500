@@ -64,7 +64,6 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.5 | Spieler wurde geschlagen | - | Spieler verliert leben |
 | 6.6 | AI ha fast kein leben mehr | Spieler schlagt AI | AI fällt um |
 | 6.7 | Spieler hat gewonnen | - | Winscreen |
-
 | 7.1 |Das Spiel ist vorbei | -| Der Gewinner sieht man beim Victory Screen| 
 | 8.1 |User ist im Spiel |Drückt einen Knopf |Charakter macht einen Tanz |
 | 9.1 | User hat ein Spiel beendet|- |Erhält eine Währung |
@@ -81,11 +80,11 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Mirhan          | Menü wird erstellt             |   45 Minuten            |
-| 1.B  |       |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
-| 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
-|2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
-|2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
+| 1.A  |  09.03     | Mirhan          | Menü wird erstellt             |   45 Minuten            |
+| 1.B  |  09.03     |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
+| 1.2A     | 16.03      |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
+|2.A|    16.03       |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
+|2.2B|  16.03      | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
 |3.A|9.03.|Jan Frey|Das Auto kann Fahren.|135min|
 |3.B|9.03.|Jan Frey|Das Auto hat realistische Physics|90min|
 |3.C|16.03.|Jan Frey|Spieler kann in Auto ein und Aussteiugen.|45min|
@@ -107,6 +106,8 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.I | 16.03 | Benas | AI verschiedene attackenwahl | 45min |
 | 6.J | 23.03 | Benas | Level design | 90min |
 | 6.K | 23.03 | Benas | Fertigmachen | 45min |
+|7.A|23.03|Mirhan|Der VictoryScreen muss angezeigt werden|90 Minuten|
+|12.A|23.03|Mirhan|Der Durchscnitt der Spieler die unter dem Durchschnitt liegen fliegen raus|60 Minuten|
 |xy|23.03.|Alle|Projekte zusammenfügen|2AP|
 
 Total: 
