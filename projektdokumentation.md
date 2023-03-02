@@ -46,10 +46,15 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.1  |  Spiel hat gestartet, Spieler ist im Auswahlsmenü | Spieler wählt Charakter   |  Mann wird weiter zur Auswahl gesendet |
 | 1.2  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler hat den passenden Charakter ausgewählt |
 | 2.1  | Spieler hat Charakter ausgewählt und kann jetzt sein Fahrzeug auswählen | Spieler drückt beim Menü auf auswählen und wählt sein Fahrzeug aus.  |Das Rennen startet|
-| 3.1  | |||
+| 2.2  | Spieler sieht die Stats der Fahrzeuge|Spieler wählt Fahrzeug aus|Wird ins Spiel geschickt|
+|3.1|Spieler hat alles im Menü ausgewählt|||
+|4.1||||
+|5.1||||
+|6.1||||
+|7.1||||
+|8.1||||
+|9.1||||
 |||||
-|||||
-
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
