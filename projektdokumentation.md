@@ -58,10 +58,9 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.6 | AI ha fast kein leben mehr | Spieler schlagt AI | AI fällt um |
 | 6.7 | Spieler hat gewonnen | - | Winscreen |
 
-|7.1||||
-|8.1||||
-|9.1||||
-|||||
+| 7.1 | | | | 
+| 8.1 | | | |
+| 9.1 | | | |
 
 ### 1.4 Diagramme
 
