@@ -49,14 +49,14 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 2.1  | Spieler hat Charakter ausgewählt und kann jetzt sein Fahrzeug auswählen | Spieler drückt beim Menü auf auswählen und wählt sein Fahrzeug aus.  |Das Rennen startet|
 | 2.2  | Spieler sieht die Stats der Fahrzeuge|Spieler wählt Fahrzeug aus|Wird ins Spiel geschickt|
 |3.1|Spieler hat Charakter und Fahrzeug ausgewählt|Startet das Spiel|Rennen beginnt|
-|3.1 | Autorennen vorbei | 1 zufällige Strecke wird ausgewählt | Strecke wird geladen
-| 3.2 | Strecke wurde geladen | - | Spieler spawnen auf einer Plattform
-| 3.3 |  Rennen hat gestartet | - | Alle Hindernisse bewegen sich
-| 3.4 | Rennen hat gestartet | - | AI nimmt oft, aber nicht immer den richtigen Weg
-| 3.5 | Spieler bewegen sich | landen auf Plattform | bleiben auf der Plattform
-| 3.6 | Spieler bewegen sich | Hindernis trifft sie | fallen runter
-|4.1||||
-|5.1||||
+|3.2|Rennen hat begonnen|Spieler gibt Inputs|Auto bewegt sich|
+|4.1 | Autorennen vorbei | 1 zufällige Strecke wird ausgewählt | Strecke wird geladen
+| 4.2 | Strecke wurde geladen | - | Spieler spawnen auf einer Plattform
+| 4.3 |  Rennen hat gestartet | - | Alle Hindernisse bewegen sich
+| 4.4 | Rennen hat gestartet | - | AI nimmt oft, aber nicht immer den richtigen Weg
+| 4.5 | Spieler bewegen sich | landen auf Plattform | bleiben auf der Plattform
+| 4.6 | Spieler bewegen sich | Hindernis trifft sie | fallen runter
+|5.1|Platformer ist vorbei|-|Final Spiel startet |
 | 6.1 | Platformer vorbei | - | Map wird geladen |
 | 6.2 | Map eingeladen | - | Spieler werden eingespawnt |
 | 6.3 |  Spieler wurden eingespawnt | - | Kampf startet |
@@ -66,10 +66,8 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.7 | Spieler hat gewonnen | - | Winscreen |
 
 | 7.1 |Das Spiel ist vorbei | -| Der Gewinner sieht man beim Victory Screen| 
-| 8.1 | | | |
-| 9.1 | | | |
-|||||
-|||||
+| 8.1 |User ist im Spiel |Drückt einen Knopf |Charakter macht einen Tanz |
+| 9.1 | User hat ein Spiel beendet|- |Erhält eine Währung |
 |12.1|Ein Level wurde beendet|-|Die Hälfte der Leute die unter dem Durschnitt sind fliegen raus.|
 
 ### 1.4 Diagramme
