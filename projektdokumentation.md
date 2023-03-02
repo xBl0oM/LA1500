@@ -79,15 +79,15 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Mirhan          | Menü wird erstellt             |   45 Minuten            |
-| 1.B  |       |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
-| 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
-|2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
-|2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
+| 1.A  | 09.03      | Mirhan          | Menü wird erstellt             |   45 Minuten            |
+| 1.B  | 16.03      |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
+| 1.2A     | 16.03      |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
+|2.A|   16.03        |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
+|2.2B|   16.03     | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
 | 3.A | 21.03. | Karrer | Random Map Selector | 45min
 | 3.B | 07.03. | Karrer | Plattformer Maps | 135min
 | 3.C | 14.03. | Karrer |  Bewegende Hindernisse | 135min
-| 3.D | 2103. | Karrer | Nicht konsistente AI | 135min
+| 3.D | 21.03. | Karrer | Nicht konsistente AI | 135min
 | 3.E | 07.03. | Karrer | Lande Physik | 65min
 | 3.F | 14.03. | Karrer | Hitbox Physik | 70min
 | 6.A | 02.03 | Benas | Charakter Importieren und Bewegung implementieren | 20 min| 
@@ -101,8 +101,8 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.I | 16.03 | Benas | AI verschiedene attackenwahl | 45min |
 | 6.J | 23.03 | Benas | Level design | 90min |
 | 6.K | 23.03 | Benas | Fertigmachen | 45min |
-|7.A|09.03|Mirhan|Man sieht einen Victory Screen|100 Minuten|
-|12.A|09.02|Mirhan|Die Hälfte der Spieler die unter dem Durchscnitt sind fliegen raus|60 Minuten|
+|7.A|23.03|Mirhan|Man sieht einen Victory Screen|100 Minuten|
+|12.A|23.03|Mirhan|Die Hälfte der Spieler die unter dem Durchscnitt sind fliegen raus|60 Minuten|
 
 Total: 
 
