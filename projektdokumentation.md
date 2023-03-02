@@ -25,28 +25,28 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1 |Kann|Qualität |Als ein User möchte ich zwischen verschiedenen Charakteren auswählen können, damit ich einen Vorteil gegenüber anderen haben kann.
-| 2 |Kann|Qualität| Als User möchte ich, dass Charaktere verschiedene Stats haben, damit das Spiel nicht langweilig ist.                               |
+| 1.2 |Kann|Qualität| Als User möchte ich, dass Charaktere verschiedene Stats haben, damit das Spiel nicht langweilig ist.                               |
+|2|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können, damit ich meine Rennen fahren kann.|
+|2.2|Kann|Qualität|Als User möchte ich Fahrzeuge die unterschiedliche Stats haben, damit ich einen grösseren Spielspass habe.|
 |3|Soll|Funktional|Als User möchte ich ein Rennspiel haben, damit das Spiel eine Diversität bietet.|
-|4|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können, damit ich meine Rennen fahren kann.|
-|5|Kann|Qualität|Als User möchte ich Fahrzeuge die unterschiedliche Stats haben, damit ich einen grösseren Spielspass habe.|
-|6|Soll|Funktional|Als User möchte ich ein Platformer haben, damit das Spiel nicht immer gleich ist.|
-|7|Soll|Funktional |Als User möchte ich ein Final spiel haben, damit dann entschieden wird, wer der Gewinner ist.|
-|8|Soll|Funktional|Als User möchte ich ein Fighter-Spiel haben, damit noch mehr Diversität ins Spiel kommt. |
-|9 |Soll|Funktional|Als User möchte ich einen Victory Screen haben, damit man weiss, wer der Gewinner ist.|
-|10|Kann|Qualität|Als User möchte ich Tänze machen können, damit man mehr Spass am Spiel hat.|
-|11|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele, damit ich eventuell andere Items kaufen kann.|
-|12|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können, damit ich meine Währung ausgeben kann.|
-|13|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können, damit ich rückblickend meine Siege und Niederlagen sehen kann.|
+|4|Soll|Funktional|Als User möchte ich ein Platformer haben, damit das Spiel nicht immer gleich ist.|
+|5|Soll|Funktional |Als User möchte ich ein Final spiel haben, damit dann entschieden wird, wer der Gewinner ist.|
+|6|Soll|Funktional|Als User möchte ich ein Fighter-Spiel haben, damit noch mehr Diversität ins Spiel kommt. |
+|7 |Soll|Funktional|Als User möchte ich einen Victory Screen haben, damit man weiss, wer der Gewinner ist.|
+|8|Kann|Qualität|Als User möchte ich Tänze machen können, damit man mehr Spass am Spiel hat.|
+|9|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele, damit ich eventuell andere Items kaufen kann.|
+|10|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können, damit ich meine Währung ausgeben kann.|
+|11|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können, damit ich rückblickend meine Siege und Niederlagen sehen kann.|
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Spiel hat gestartet, Spieler ist im Auswahlsmenü | Spieler wählt Charakter   |  Spieler startet das Rennen mit dem Charakter  |
-| 2.1  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler wählt je nach seinen Prioritäten den passenden Charakter |
-| 3.1  |  Spiel startet nach dem Auswahlsmenü |  Spieler drückt beim Menü auf auswählen und startet und wird ins Rennen teleportiert. |Das Rennen hat gestartet|
-| 4.1  | |||
+| 1.1  |  Spiel hat gestartet, Spieler ist im Auswahlsmenü | Spieler wählt Charakter   |  Mann wird weiter zur Auswahl gesendet |
+| 1.2  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler hat den passenden Charakter ausgewählt |
+| 2.1  | Spieler hat Charakter ausgewählt und kann jetzt sein Fahrzeug auswählen | Spieler drückt beim Menü auf auswählen und wählt sein Fahrzeug aus.  |Das Rennen startet|
+| 3.1  | |||
 |||||
 |||||
 
