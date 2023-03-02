@@ -88,9 +88,9 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
 |2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
 |2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
-|3.A|9.03.|Jan Frey|Das Auto kann Fahren.|135|
-|3.B|9.03.|Jan Frey|Das Auto hat realistische Physics|90|
-|3.C|16.03.|Jan Frey|Spieler kann in Auto ein und Aussteiugen.|45|
+|3.A|9.03.|Jan Frey|Das Auto kann Fahren.|135min|
+|3.B|9.03.|Jan Frey|Das Auto hat realistische Physics|90min|
+|3.C|16.03.|Jan Frey|Spieler kann in Auto ein und Aussteiugen.|45min|
 |3.D|16.03|Jan Frey|Verschiedene Autos mit verschiedenen Stats |90min|
 | 4.A | 21.03. | Karrer | Random Map Selector | 45min
 | 4.B | 07.03. | Karrer | Plattformer Maps | 135min
