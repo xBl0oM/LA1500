@@ -30,13 +30,13 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |2.1|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können, damit ich meine Rennen fahren kann.|
 |2.2|Kann|Qualität|Als User möchte ich Fahrzeuge die unterschiedliche Stats haben, damit ich einen grösseren Spielspass habe.|
 |3|Soll|Funktional|Als User möchte ich ein Platformer haben, damit das Spiel nicht immer gleich ist.|
-|4|Soll|Funktional |Als User möchte ich ein Final spiel haben.|
-|5|Soll|Funktional|Als User möchte ich ein Fighter-Spiel haben. |
-|6 |Soll|Funktional|Als User möchte ich einen Victory Screen haben.|
-|7|Kann|Qualität|Als User möchte ich Tänze machen können.|
-|8|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele.|
-|9|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können.|
-|10|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können.|
+|4|Soll|Funktional |Als User möchte ich ein Final spiel haben, damit dann entschieden wird, wer der Gewinner ist.|
+|5|Soll|Funktional|Als User möchte ich ein Fighter-Spiel haben, damit noch mehr Diversität ins Spiel kommt. |
+|6 |Soll|Funktional|Als User möchte ich einen Victory Screen haben, damit man weiss, wer der Gewinner ist.|
+|7|Kann|Qualität|Als User möchte ich Tänze machen können, damit man mehr Spass am Spiel hat.|
+|8|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele, damit ich eventuell andere Items kaufen kann.|
+|9|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können, damit ich meine Währung ausgeben kann.|
+|10|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können, damit ich rückblickend meine Siege und Niederlagen sehen kann.|
 
 
 ### 1.3 Testfälle
