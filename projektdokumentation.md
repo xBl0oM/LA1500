@@ -107,7 +107,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.J | 23.03 | Benas | Level design | 90min |
 | 6.K | 23.03 | Benas | Fertigmachen | 45min |
 |7.A|23.03|Mirhan|Der VictoryScreen muss angezeigt werden|90 Minuten|
-|12.A|23.03|Mirhan|Der Durchscnitt der Spieler die unter dem Durchschnitt liegen fliegen raus|60 Minuten|
+|12.A|23.03|Mirhan|Der Durchschnitt der Spieler die unter dem Durchschnitt liegen fliegen raus|60 Minuten|
 |xy|23.03.|Alle|Projekte zusammenfügen|2AP|
 
 Total: 
