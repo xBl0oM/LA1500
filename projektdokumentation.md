@@ -55,7 +55,6 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |8.1||||
 |9.1||||
 |||||
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -68,9 +67,11 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  |       | Mirhan          | Menü wird erstellt             |   45 Minuten            |
+| 1.B  |       |   Mirhan     |   Charaktere werden eingefügt          |   45 Minuten            |
+| 1.2A     |       |Mirhan     |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
+||||||
+||||||
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
