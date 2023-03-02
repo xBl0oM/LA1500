@@ -48,7 +48,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.2  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler hat den passenden Charakter ausgewählt |
 | 2.1  | Spieler hat Charakter ausgewählt und kann jetzt sein Fahrzeug auswählen | Spieler drückt beim Menü auf auswählen und wählt sein Fahrzeug aus.  |Das Rennen startet|
 | 2.2  | Spieler sieht die Stats der Fahrzeuge|Spieler wählt Fahrzeug aus|Wird ins Spiel geschickt|
-|3.1|Spieler hat alles im Menü ausgewählt|weiter|Das Spiel wird geladet.|
+|3.1 | Autorennen vorbei | 1 zufällige Strecke wird ausgewählt | Strecke wird geladen
+| 3.2 | Strecke wurde geladen | - | Spieler spawnen auf einer Plattform
+| 3.3 |  Rennen hat gestartet | - | Alle Hindernisse bewegen sich
+| 3.4 | Rennen hat gestartet | - | AI nimmt oft, aber nicht immer den richtigen Weg
+| 3.5 | Spieler bewegen sich | landen auf Plattform | bleiben auf der Plattform
+| 3.6 | Spieler bewegen sich | Hindernis trifft sie | fallen runter
 |4.1||||
 |5.1||||
 | 6.1 | Platformer vorbei | - | Map wird geladen |
