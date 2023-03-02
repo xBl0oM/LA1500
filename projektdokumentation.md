@@ -27,7 +27,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1 |Kann|Qualität |Als ein User möchte ich zwischen verschiedenen Charakteren auswählen können, damit ich einen Vorteil gegenüber anderen haben kann.
 | 1.2 |Kann|Qualität| Als User möchte ich, dass Charaktere verschiedene Stats haben, damit das Spiel nicht langweilig ist.                               |
 |2|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können, damit ich meine Rennen fahren kann.|
-|2.2|Kann|Qualität|Als User möchte ich Fahrzeuge die unterschiedliche Stats haben, damit ich einen grösseren Spielspass habe.|
+|2.2|Kann|Qualität|Als User möchte ich Fahrzeuge, die unterschiedliche Stats haben, damit ich einen grösseren Spielspass habe.|
 |3|Soll|Funktional|Als User möchte ich ein Rennspiel haben, damit das Spiel eine Diversität bietet.|
 |4|Soll|Funktional|Als User möchte ich ein Platformer haben, damit das Spiel nicht immer gleich ist.|
 |5|Soll|Funktional |Als User möchte ich ein Final spiel haben, damit dann entschieden wird, wer der Gewinner ist.|
@@ -37,7 +37,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |9|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele, damit ich eventuell andere Items kaufen kann.|
 |10|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können, damit ich meine Währung ausgeben kann.|
 |11|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können, damit ich rückblickend meine Siege und Niederlagen sehen kann.|
-|12|Soll|Funktional| Als User möchte ich, dass die Hälfte der Spieler die unter dem Durchschnitt sind, dass sie rausfliegen, damit es dann am Schluss einen Gewinner gibt.|  
+|12|Soll|Funktional| Als User möchte ich, dass die Hälfte der Spieler, die unter dem Durchschnitt sind, dass sie rausfliegen, damit es dann am Schluss einen Gewinner gibt.|  
 
 
 ### 1.3 Testfälle
@@ -48,6 +48,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.2  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler hat den passenden Charakter ausgewählt |
 | 2.1  | Spieler hat Charakter ausgewählt und kann jetzt sein Fahrzeug auswählen | Spieler drückt beim Menü auf auswählen und wählt sein Fahrzeug aus.  |Das Rennen startet|
 | 2.2  | Spieler sieht die Stats der Fahrzeuge|Spieler wählt Fahrzeug aus|Wird ins Spiel geschickt|
+|3.1|Spieler hat Charakter und Fahrzeug ausgewählt|Startet das Spiel|Rennen beginnt|
 |3.1 | Autorennen vorbei | 1 zufällige Strecke wird ausgewählt | Strecke wird geladen
 | 3.2 | Strecke wurde geladen | - | Spieler spawnen auf einer Plattform
 | 3.3 |  Rennen hat gestartet | - | Alle Hindernisse bewegen sich
@@ -63,9 +64,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.5 | Spieler wurde geschlagen | - | Spieler verliert leben |
 | 6.6 | AI ha fast kein leben mehr | Spieler schlagt AI | AI fällt um |
 | 6.7 | Spieler hat gewonnen | - | Winscreen |
+
 | 7.1 |Das Spiel ist vorbei | -| Der Gewinner sieht man beim Victory Screen| 
 | 8.1 | | | |
 | 9.1 | | | |
+|||||
+|||||
 |12.1|Ein Level wurde beendet|-|Die Hälfte der Leute die unter dem Durschnitt sind fliegen raus.|
 
 ### 1.4 Diagramme
@@ -79,17 +83,21 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 09.03      | Mirhan          | Menü wird erstellt             |   45 Minuten            |
-| 1.B  | 16.03      |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
-| 1.2A     | 16.03      |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
-|2.A|   16.03        |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
-|2.2B|   16.03     | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
-| 3.A | 21.03. | Karrer | Random Map Selector | 45min
-| 3.B | 07.03. | Karrer | Plattformer Maps | 135min
-| 3.C | 14.03. | Karrer |  Bewegende Hindernisse | 135min
-| 3.D | 21.03. | Karrer | Nicht konsistente AI | 135min
-| 3.E | 07.03. | Karrer | Lande Physik | 65min
-| 3.F | 14.03. | Karrer | Hitbox Physik | 70min
+| 1.A  |       | Mirhan          | Menü wird erstellt             |   45 Minuten            |
+| 1.B  |       |   Mirhan   |   Charaktere werden eingefügt          |   45 Minuten            |
+| 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
+|2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
+|2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
+|3.A|9.03.|Jan Frey|Das Auto kann Fahren.|135|
+|3.B|9.03.|Jan Frey|Das Auto hat realistische Physics|90|
+|3.C|16.03.|Jan Frey|Spieler kann in Auto ein und Aussteiugen.|45|
+|3.D|16.03|Jan Frey|Verschiedene Autos mit verschiedenen Stats |90min|
+| 4.A | 21.03. | Karrer | Random Map Selector | 45min
+| 4.B | 07.03. | Karrer | Plattformer Maps | 135min
+| 4.C | 14.03. | Karrer |  Bewegende Hindernisse | 135min
+| 4.D | 2103. | Karrer | Nicht konsistente AI | 135min
+| 4.E | 07.03. | Karrer | Lande Physik | 65min
+| 4.F | 14.03. | Karrer | Hitbox Physik | 70min
 | 6.A | 02.03 | Benas | Charakter Importieren und Bewegung implementieren | 20 min| 
 | 6.B | 02.03 | Benas | Charakter Animationen | 45min| 
 | 6.C | 02.03 | Benas | Charakter Animationen verlängert, springen | 25min |
@@ -101,8 +109,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.I | 16.03 | Benas | AI verschiedene attackenwahl | 45min |
 | 6.J | 23.03 | Benas | Level design | 90min |
 | 6.K | 23.03 | Benas | Fertigmachen | 45min |
-|7.A|23.03|Mirhan|Man sieht einen Victory Screen|100 Minuten|
-|12.A|23.03|Mirhan|Die Hälfte der Spieler die unter dem Durchscnitt sind fliegen raus|60 Minuten|
+|xy|23.03.|Alle|Projekte zusammenfügen|2AP|
 
 Total: 
 
