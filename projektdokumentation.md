@@ -37,6 +37,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |9|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele, damit ich eventuell andere Items kaufen kann.|
 |10|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können, damit ich meine Währung ausgeben kann.|
 |11|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können, damit ich rückblickend meine Siege und Niederlagen sehen kann.|
+|12|Soll|Funktional| Als User möchte ich, dass die Hälfte der Spieler die unter dem Durchschnitt sind, dass sie rausfliegen, damit es dann am Schluss einen Gewinner gibt.|  
 
 
 ### 1.3 Testfälle
@@ -47,7 +48,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.2  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler hat den passenden Charakter ausgewählt |
 | 2.1  | Spieler hat Charakter ausgewählt und kann jetzt sein Fahrzeug auswählen | Spieler drückt beim Menü auf auswählen und wählt sein Fahrzeug aus.  |Das Rennen startet|
 | 2.2  | Spieler sieht die Stats der Fahrzeuge|Spieler wählt Fahrzeug aus|Wird ins Spiel geschickt|
-|3.1|Spieler hat alles im Menü ausgewählt|||
+|3.1|Spieler hat alles im Menü ausgewählt|weiter|Das Spiel wird geladet.|
 |4.1||||
 |5.1||||
 | 6.1 | Platformer vorbei | - | Map wird geladen |
@@ -58,9 +59,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.6 | AI ha fast kein leben mehr | Spieler schlagt AI | AI fällt um |
 | 6.7 | Spieler hat gewonnen | - | Winscreen |
 
-| 7.1 | | | | 
+| 7.1 |Das Spiel ist vorbei | -| Der Gewinner sieht man beim Victory Screen| 
 | 8.1 | | | |
 | 9.1 | | | |
+|||||
+|||||
+|12.1|Ein Level wurde beendet|-|Die Hälfte der Leute die unter dem Durschnitt sind fliegen raus.|
 
 ### 1.4 Diagramme
 
