@@ -87,6 +87,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
 |2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
 |2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
+| 3.A | 21.03. | Karrer | Random Map Selector | 45min
+| 3.B | 07.03. | Karrer | Plattformer Maps | 135min
+| 3.C | 14.03. | Karrer |  Bewegende Hindernisse | 135min
+| 3.D | 2103. | Karrer | Nicht konsistente AI | 135min
+| 3.E | 07.03. | Karrer | Lande Physik | 65min
+| 3.F | 14.03. | Karrer | Hitbox Physik | 70min
 | 6.A | 02.03 | Benas | Charakter Importieren und Bewegung implementieren | 20 min| 
 | 6.B | 02.03 | Benas | Charakter Animationen | 45min| 
 | 6.C | 02.03 | Benas | Charakter Animationen verlängert, springen | 25min |
