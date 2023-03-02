@@ -63,12 +63,9 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.5 | Spieler wurde geschlagen | - | Spieler verliert leben |
 | 6.6 | AI ha fast kein leben mehr | Spieler schlagt AI | AI fällt um |
 | 6.7 | Spieler hat gewonnen | - | Winscreen |
-
 | 7.1 |Das Spiel ist vorbei | -| Der Gewinner sieht man beim Victory Screen| 
 | 8.1 | | | |
 | 9.1 | | | |
-|||||
-|||||
 |12.1|Ein Level wurde beendet|-|Die Hälfte der Leute die unter dem Durschnitt sind fliegen raus.|
 
 ### 1.4 Diagramme
