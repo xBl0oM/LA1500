@@ -24,12 +24,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |Kann|Qualität |Als ein User möchte ich zwischen verschiedenen Charakteren auswählen können.
-| 1.1 |Kann|Qualität| Diese Charaktere sollen verschiedene Stats haben.                               |
-|2|Soll|Funktional|Als User möchte ich ein Renn spiel haben.|
-|2.1|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können|
-|2.2|Kann|Qualität|Diese Fahrzeuge sollen unterschiedliche Stats haben.|
-|3|Soll|Funktional|Als User möchte ich ein Platformer haben.|
+| 1    |Kann|Qualität |Als ein User möchte ich zwischen verschiedenen Charakteren auswählen können, damit ich einen Vorteil gegenüber anderen haben kann.
+| 1.1 |Kann|Qualität| Als User möchte ich, dass Charaktere verschiedene Stats haben, damit das Spiel nicht langweilig ist.                               |
+|2|Soll|Funktional|Als User möchte ich ein Renn spiel haben, damit das Spiel eine Diversität bietet.|
+|2.1|Kann|Qualität|Als User möchte ich zwischen verschiedenen Fahrzeugen auswählen können, damit ich meine Rennen fahren kann.|
+|2.2|Kann|Qualität|Als User möchte ich Fahrzeuge die unterschiedliche Stats haben, damit ich einen grösseren Spielspass habe.|
+|3|Soll|Funktional|Als User möchte ich ein Platformer haben, damit das Spiel nicht immer gleich ist.|
 |4|Soll|Funktional |Als User möchte ich ein Final spiel haben.|
 |5|Soll|Funktional|Als User möchte ich ein Fighter-Spiel haben. |
 |6 |Soll|Funktional|Als User möchte ich einen Victory Screen haben.|
@@ -37,6 +37,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |8|Kann|Rand|Als User möchte ich eine Währung erhalten, wenn ich ein Match spiele.|
 |9|Kann|Qualität|Als User möchte ich mit der erhaltenen Währung verschiedene Siegestänze kaufen können.|
 |10|Kann|Qualität|Als User möchte ich meine Platzierungen / Stats speichern können.|
+
 
 ### 1.3 Testfälle
 
