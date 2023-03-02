@@ -104,6 +104,8 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 6.I | 16.03 | Benas | AI verschiedene attackenwahl | 45min |
 | 6.J | 23.03 | Benas | Level design | 90min |
 | 6.K | 23.03 | Benas | Fertigmachen | 45min |
+|7.A|09.03|Mirhan|Man sieht einen Victory Screen|100 Minuten|
+|12.A|09.02|Mirhan|Die Hälfte der Spieler die unter dem Durchscnitt sind fliegen raus|60 Minuten|
 
 Total: 
 
