@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Hydrangea
 Sivickas, Karrer, Özden, Frey
@@ -43,8 +43,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Spiel hat gestartet, Spieler ist im Auswahlsmenü | Spieler wählt Charakter   |  Spieler startet das Rennen mit dem Charakter  |
+| 1.2  |  Auswahlmenü            | Spieler begutachtet die Statistiken der Charaktere        |  Spieler wählt je nach seinen Prioritäten den passenden Charakter |
+| 1.3  |              |           |           |
+|||||
+|||||
+|||||
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
