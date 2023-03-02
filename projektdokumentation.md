@@ -50,7 +50,14 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |3.1|Spieler hat alles im Menü ausgewählt|||
 |4.1||||
 |5.1||||
-|6.1||||
+| 6.1 | Platformer vorbei | - | Map wird geladen |
+| 6.2 | Map eingeladen | - | Spieler werden eingespawnt |
+| 6.3 |  Spieler wurden eingespawnt | - | Kampf startet |
+| 6.4 | Kampf hat gestartet | Spieler schlagt gegner | AI verliert leben |
+| 6.5 | Spieler wurde geschlagen | - | Spieler verliert leben |
+| 6.6 | AI ha fast kein leben mehr | Spieler schlagt AI | AI fällt um |
+| 6.7 | Spieler hat gewonnen | - | Winscreen |
+
 |7.1||||
 |8.1||||
 |9.1||||
@@ -72,6 +79,18 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 1.2A     |       |Mirhan  |   Charaktere haben eigene Stats, die man sehen kann          |    45 Minuten           |
 |2.A|           |   Mirhan  | Fahrzeuge sind auch auf dem Menü zusehen            |   45 Minuten          |
 |2.2B|        | Mirhan|       Auf dem Menü sind Stats der Fahrzeuge zu sehen            |            45 Minuten              |
+| 6.A | 02.03 | Benas | Charakter Importieren und Bewegung implementieren | 20 min| 
+| 6.B | 02.03 | Benas | Charakter Animationen | 45min| 
+| 6.C | 02.03 | Benas | Charakter Animationen verlängert, springen | 25min |
+| 6.D | 09.03 | Benas | Mini GUI implementation | 45min |
+| 6.E | 09.03 | Benas | AI erstellen und modell fertigstellen | 90min |
+| 6.F | 09.03 | Benas | AI intelligentes Laufen implementieren | 45min |
+| 6.G | 16.03 | Benas | Verschiedene attacken implementieren | 45min |
+| 6.H | 16.03 | Benas | Animationen zu attacken implementieren | 45min |
+| 6.I | 16.03 | Benas | AI verschiedene attackenwahl | 45min |
+| 6.J | 23.03 | Benas | Level design | 90min |
+| 6.K | 23.03 | Benas | Fertigmachen | 45min |
+
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
