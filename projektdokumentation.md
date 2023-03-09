@@ -126,7 +126,7 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 09.03 |  Mirhan  | 45 minuten      |   65 minuten   |
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
-| 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten   |
+| 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten bis jetzt   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
