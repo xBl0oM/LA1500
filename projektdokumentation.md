@@ -128,7 +128,7 @@ Total:
 |1. B  |09.03/|   Mirhan       |       45 minuten            |    xx           |
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten bis jetzt   |
-
+|3.B|09.03|Jan Frey|135 min|200 min|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
