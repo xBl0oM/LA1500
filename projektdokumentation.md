@@ -125,6 +125,7 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 09.03 |  Mirhan  | 45 minuten      |   65 minuten   |
+|1. B  |09.03/|   Mirhan       |       45 minuten            |    xx           |
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten bis jetzt   |
 
