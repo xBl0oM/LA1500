@@ -89,12 +89,12 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |3.B|9.03.|Jan Frey|Das Auto hat realistische Physics|90min|
 |3.C|16.03.|Jan Frey|Spieler kann in Auto ein und Aussteiugen.|45min|
 |3.D|16.03|Jan Frey|Verschiedene Autos mit verschiedenen Stats |90min|
-| 4.A | 21.03. | Karrer | Random Map Selector | 45min
-| 4.B | 07.03. | Karrer | Plattformer Maps | 135min
-| 4.C | 14.03. | Karrer |  Bewegende Hindernisse | 135min
-| 4.D | 2103. | Karrer | Nicht konsistente AI | 135min
-| 4.E | 07.03. | Karrer | Lande Physik | 65min
-| 4.F | 14.03. | Karrer | Hitbox Physik | 70min
+| 4.A | 23.03. | Karrer | Random Map Selector | 45min
+| 4.B | 09.03. | Karrer | Plattformer Maps | 135min
+| 4.C | 16.03. | Karrer |  Bewegende Hindernisse | 135min
+| 4.D | 23.03. | Karrer | Nicht konsistente AI | 135min
+| 4.E | 09.03. | Karrer | Lande Physik | 65min
+| 4.F | 16.03. | Karrer | Hitbox Physik | 70min
 | 6.A | 02.03 | Benas | Charakter Importieren und Bewegung implementieren | 20 min| 
 | 6.B | 02.03 | Benas | Charakter Animationen | 45min| 
 | 6.C | 02.03 | Benas | Charakter Animationen verlängert, springen | 25min |
