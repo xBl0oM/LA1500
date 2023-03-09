@@ -7,7 +7,7 @@ Sivickas, Karrer, Özden, Frey
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|      09.03 | 0.0.1   |  Heute haben wir alle an unseren Level gearbeitet und haben dabei zusammen einen Charakter erstellt. |
 |     |     |                                                            |
 |       | 1.0.0   |                                                              |
 
