@@ -129,7 +129,17 @@ Total:
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten bis jetzt   |
 |3.B|09.03|Jan Frey|135 min|200 min|
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+|6.A|02.03|Benas|20min|45min|
+|6.B|02.03|Benas|45min|45min|
+|6.C|02.03|Benas|25min|10min|
+|6.D|09.03|Benas|45min|45min|
+|6.E|09.03|Benas|90min|135min|
+|6.F|09.03|Benas|45min|45min|
+|6.G|16.03|Benas|45min|45min|
+|6.H|16.03|Benas|45min|60min|
+|6.I|16.03|Benas|45min|90min|
+
+✍️ Tragen Sie jedes Mal,wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
