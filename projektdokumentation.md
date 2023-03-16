@@ -7,9 +7,9 @@ Sivickas, Karrer, Özden, Frey
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|      09.03 | 0.0.1   |  Heute haben wir alle an unseren Level gearbeitet und haben dabei zusammen einen Charakter erstellt. |
-|     |     |                                                            |
-|       | 1.0.0   |                                                              |
+|09.03 | 0.0.1|Heute haben wir alle an unseren Level gearbeitet und haben dabei zusammen einen Charakter erstellt.|
+|16.03|0.1.0|Heute haben wir weiter an unseren Level gearbeitet, dabei haben wir das Menu fertiggestellt, weiter am Fighter gearbeitet, den Platformer fast fertiggestellt und das Auto des Racing Game zum Laufen gebracht.|
+|| 1.0.0||
 
 ## 1 Informieren
 
@@ -129,7 +129,8 @@ Total:
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten |
 | 4.C  | 16.03 |  Nicola  | 135 minuten     |   90 minuten |
-|3.B|09.03|Jan Frey|135 min|200 min|
+|3.A|16.03|Jan Frey|135|210 min |
+|3.B|09.03|Jan Frey|90 min|200 min|
 |6.A|02.03|Benas|20min|45min|
 |6.B|02.03|Benas|45min|45min|
 |6.C|02.03|Benas|25min|10min|
