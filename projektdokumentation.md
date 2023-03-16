@@ -125,9 +125,10 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 09.03 |  Mirhan  | 45 minuten      |   65 minuten   |
-|1. B  |09.03/|   Mirhan       |       45 minuten            |    50 minuten           |
+|1. B  | 09.03 |   Mirhan       |       45 minuten            |    50 minuten           |
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
-| 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten bis jetzt   |
+| 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten |
+| 4.C  | 16.03 |  Nicola  | 135 minuten     |   90 minuten |
 |3.B|09.03|Jan Frey|135 min|200 min|
 |6.A|02.03|Benas|20min|45min|
 |6.B|02.03|Benas|45min|45min|
