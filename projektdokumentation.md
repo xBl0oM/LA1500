@@ -128,7 +128,11 @@ Total:
 |1. B  | 09.03 |   Mirhan       |       45 minuten            |    50 minuten           |
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten  |
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten |
-| 4.C  | 16.03 |  Nicola  | 135 minuten     |   90 minuten |
+| 4.B  | 16.03 |  Nicola  | 135 minuten     |   45 minuten |
+| 4.C  | 16.03 |  Nicola  | 135 minuten     |   135 minuten |
+| 4.A  | 16.03 |  -  | 45 minuten | - |
+| 4.E  | 16.03 |  -  | 65 minuten | - |
+| 4.F  | 16.03 |  -  | 70 minuten | - |
 |3.A|16.03|Jan Frey|135|210 min |
 |3.B|09.03|Jan Frey|90 min|200 min|
 |6.A|02.03|Benas|20min|45min|
