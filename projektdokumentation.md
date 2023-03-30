@@ -109,6 +109,7 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 |7.A|23.03|Mirhan|Der VictoryScreen muss angezeigt werden|90 Minuten|
 |12.A|23.03|Mirhan|Der Durchschnitt der Spieler die unter dem Durchschnitt liegen fliegen raus|60 Minuten|
 |xy|23.03.|Alle|Projekte zusammenfügen|2AP|
+|abc|30.03|Nicola|Powerpoint|45min|
 
 Total: 
 
@@ -130,6 +131,8 @@ Total:
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten |
 | 4.B  | 16.03 |  Nicola  | 135 minuten     |   45 minuten |
 | 4.C  | 16.03 |  Nicola  | 135 minuten     |   135 minuten |
+| 4.C  | 23.03 |  Nicola  | 135 minuten     |   90 minuten |
+| abc  | 29.03 |  Nicola  | 45 minuten      |   45 minuten |
 | 4.A  | 16.03 |  -  | 45 minuten | - |
 | 4.E  | 16.03 |  -  | 65 minuten | - |
 | 4.F  | 16.03 |  -  | 70 minuten | - |
