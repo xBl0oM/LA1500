@@ -4,11 +4,12 @@ Jan ,Benas, Mirhan, Nicolas
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt ging es um ein Spiel, welches drei Level beinhaltete und man bis zum letzten Level der letzte Überlebende sein muss, damit man gewinnt.
 
 ## Was habe ich gelernt?
 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Im Projekt haben wir gelernt, wie man verschiedene Level miteinander verbindet, damit ist gemeint, wenn man mit einem Level fertig ist dass man auf eine blaue Platte treten muss, damit man zum nächsten Level teleportiert wird. 
 
 ## Beschreibung
 
