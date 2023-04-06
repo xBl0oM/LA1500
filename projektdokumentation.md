@@ -89,8 +89,9 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 | 2.B | 16.03 | Mirhan | Auf dem Menü sind Stats der Fahrzeuge zu sehen | 45 Minuten |
 | 3.A | 9.03. | Jan Frey | Das Auto kann Fahren | 135min |
 | 3.B | 9.03. | Jan Frey | Das Auto hat realistische Physics | 90min |
-| 3.C | 16.03. | Jan Frey | Spieler kann in Auto ein und Aussteiugen | 45min |
-| 3.D | 16.03. | Jan Frey | Verschiedene Autos mit verschiedenen Stats | 90min |
+|3.C||16.03|Jan Frey|Die Map ist ertsellt|100Min|
+| 3.D | 16.03. | Jan Frey | Spieler kann in Auto ein und Aussteiugen | 45min |
+| 3.E | 16.03. | Jan Frey | Verschiedene Autos mit verschiedenen Stats | 90min |
 | 4.A | 23.03. | Nicola | Random Map Selector | 45min |
 | 4.B | 09.03. | Nicola | Plattformer Maps | 135min |
 | 4.C | 16.03. | Nicola |  Bewegende Hindernisse | 135min |
@@ -115,7 +116,6 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 Wir haben grösstenteils das gemacht, was wir vor hatten. Wir hatten uns sehr viel vorgenommen und ein paar Sachen haben wir nicht so gut hingekriegt wie wir es wollten. Manche mussten wir auch weg lassen, da wir zu wenig Zeit hatten, um es auch noch hinzu zufügen und andere waren auch nicht nötig, da sie schon in der Software vorhanden waren.
 
@@ -136,6 +136,7 @@ Wir haben grösstenteils das gemacht, was wir vor hatten. Wir hatten uns sehr vi
 | 4.F  | 16.03 |  -  | 70 minuten | - |
 |3.A|16.03|Jan Frey|135|210 min |
 |3.B|09.03|Jan Frey|90 min|200 min|
+|3.C|23.03|Jan Frey|100 min|300 min|
 |6.A|02.03|Benas|20min|45min|
 |6.B|02.03|Benas|45min|45min|
 |6.C|02.03|Benas|25min|10min|
