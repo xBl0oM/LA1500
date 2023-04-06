@@ -74,7 +74,9 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 ### 1.4 Diagramme
 
 ![image](https://user-images.githubusercontent.com/111044215/220884451-ef174a16-bc8f-478c-9ecb-6e63aaeb1b4e.png)
-![image](https://user-images.githubusercontent.com/111044215/220884507-5a6fd6b7-0d04-4fcd-bae3-4229723a6579.png)
+![image](https://user-images.githubusercontent.com/111044215/230331573-ef9e92f7-8634-46ab-a0e5-b658677cc61d.png)
+
+
 
 
 
