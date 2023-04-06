@@ -1,5 +1,6 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Gruppenname 
+Jan ,Benas, Mirhan, Nicolas
 
 ## Einleitung
 
