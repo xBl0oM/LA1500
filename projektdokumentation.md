@@ -148,7 +148,9 @@ Wir haben grösstenteils das gemacht, was wir vor hatten. Wir hatten uns sehr vi
 |6.G|16.03|Benas|45min|45min|
 |6.H|16.03|Benas|45min|60min|
 |6.I|16.03|Benas|45min|90min|
-
+|6.J|23.03|Benas|45min|45min|
+|6.K|23.03|Benas|45min|60min|
+| 0.A | 23.03. | Benas | Projekte zusammenfügen | 270min |
 
 
 ## 5 Auswerten
