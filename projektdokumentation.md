@@ -171,4 +171,4 @@ Wir haben grösstenteils das gemacht, was wir vor hatten. Wir hatten uns sehr vi
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lernbericht](https://github.com/xBl0oM/LA1500/blob/main/Lernbericht.md)
