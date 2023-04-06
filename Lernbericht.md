@@ -8,8 +8,7 @@ In unserem Projekt ging es um ein Spiel, welches drei Level beinhaltete und man 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
-Im Projekt haben wir gelernt, wie man verschiedene Level miteinander verbindet, damit ist gemeint, wenn man mit einem Level fertig ist dass man auf eine blaue Platte treten muss, damit man zum nächsten Level teleportiert wird. 
+Im Projekt haben wir gelernt, wie man verschiedene Level miteinander verbindet, damit ist gemeint, wenn man mit einem Level fertig ist, dass man auf eine blaue Platte treten muss, damit man zum nächsten Level teleportiert wird. 
 
 ## Beschreibung
 
@@ -26,8 +25,9 @@ Im Projekt haben wir gelernt, wie man verschiedene Level miteinander verbindet, 
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+In unserem Projekt ging es gut, dass wir die Level, Menüs und Charaktere erstellen können. Am Anfang sah es wie eine grosse Schwierigkeit aus, jedoch war es einfacher als es anfangs aussah.
 
-👎 und etwas, was nicht gut lief.
+Was vielleicht nicht so gut ging war, dass wir uns viele Sachen vorgenommen haben und einige Features nicht mit implementieren konnten.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Ein Verbesserungsvorschlag für unser Projekt wäre, dass wir beschliessen, 4-6 Arbeitspakete, die auch klein sind, einzuteilen.
