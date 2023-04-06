@@ -1,13 +1,13 @@
-#Lernbericht
+# Lernbericht
 
 
-##Einleitung
+## Einleitung
 
 
-##Was haben wir gemacht?
+## Was haben wir gemacht?
 
 
-##Beschreibung
+## Beschreibung
 
 
-##Verifikatiom
+## Verifikatiom
