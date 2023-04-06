@@ -1,5 +1,5 @@
 # Lern-Bericht
-Gruppenname 
+Hydrangena
 Jan, Benas, Mirhan, Nicolas
 
 ## Einleitung
@@ -26,9 +26,11 @@ Im Projekt haben wir gelernt, wie man verschiedene Level miteinander verbindet, 
 # Reflexion zum Arbeitsprozess
 Am Anfang unseres Projektes hatten wir uns viel vorgenommen und waren selbstbewusst, dass wir ein tolles Projekt am Ende rauskriegen. Was nicht so gut am Ende verlief war, dass wir sehr viel vorgenommen haben und einige Features nicht mit implementieren konnten. 
 
+
 Was jedoch gut ging war, dass wir die Level, Menüs und Charaktere erstellen können. Am Anfang sah es wie eine grosse Schwierigkeit aus, jedoch war es einfacher als es anfangs aussah. Da wir mit Unreal Engine gearbeitet haben, mussten wir uns erst damit auseinandersetzten was viel Zeit in Anspruch nahm. Trotzdem haben wir vieles gemacht und unser Projekt kam schliesslich sehr gut heraus.
+
 
 Wir haben alles uns aufgeteilt und haben so selbstständig an unseren Aufgaben gearbeitet, wir haben auch immer nachgefragt ob Jemand ein Problem habe. 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
 Ein Verbesserungsvorschlag für unser Projekt wäre, dass wir beschliessen, 4-6 Arbeitspakete, die auch klein sind, einzuteilen.
