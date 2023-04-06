@@ -82,8 +82,8 @@ Unser Projekt wird in Unreal Engine 5 programmiert und unser Ziel ist es, dass d
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A | 09.03 | Mirhan | Menü wird erstellt | 45 Minuten |
-| 1.B | 09.03 | Mirhan | Charaktere werden eingefügt | 45 Minuten |
+| 1.A | 09.03 | Mirhan | Menü wird erstellt | 75 Minuten |
+| 1.B | 09.03 | Mirhan | Charaktere werden eingefügt | 65 Minuten |
 | 1.B | 16.03 | Mirhan | Charaktere haben eigene Stats, die man sehen kann | 45 Minuten|
 | 2.A | 16.03 | Mirhan | Fahrzeuge sind auch auf dem Menü zusehen | 45 Minuten |
 | 2.B | 16.03 | Mirhan | Auf dem Menü sind Stats der Fahrzeuge zu sehen | 45 Minuten |
@@ -123,8 +123,8 @@ Wir haben grösstenteils das gemacht, was wir vor hatten. Wir hatten uns sehr vi
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 09.03 |  Mirhan  | 45 minuten      |   65 minuten  |
-|1. B  | 09.03 |  Mirhan  | 45 minuten      |   50 minuten  |
+| 1.A  | 09.03 |  Mirhan  | 75 minuten      |   100 minuten  |
+|1. B  | 09.03 |  Mirhan  | 65 minuten      |   90 minuten  |
 | 4.B  | 09.03 |  Nicola  | 135 minuten     |   135 minuten |
 | 4.C  | 09.03 |  Nicola  | 135 minuten     |   90 minuten  |
 | 4.B  | 16.03 |  Nicola  | 135 minuten     |   45 minuten  |
