@@ -149,26 +149,8 @@ Wir haben grösstenteils das gemacht, was wir vor hatten. Wir hatten uns sehr vi
 |6.H|16.03|Benas|45min|60min|
 |6.I|16.03|Benas|45min|90min|
 
-## 5 Kontrollieren
 
-### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-## 6 Auswerten
+## 5 Auswerten
 
 [Lernbericht](https://github.com/xBl0oM/LA1500/blob/main/Lernbericht.md)
